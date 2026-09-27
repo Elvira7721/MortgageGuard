@@ -1,0 +1,21 @@
+# Private and generated data
+data/
+private_data/
+processed/
+models/
+*.csv
+*.zip
+*.parquet
+*.duckdb
+*.db
+*.joblib
+*.pkl
+
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local configuration
+.env
+.DS_Store
